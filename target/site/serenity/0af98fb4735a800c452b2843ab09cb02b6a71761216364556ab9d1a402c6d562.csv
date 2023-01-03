@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CRUD test with step","This will create a new store","SUCCESS","2023-01-03T20:29:02.228Z[Europe/London]","0.0","4.09"
+"Store CRUD test with step","This will verify store added to list","SUCCESS","2023-01-03T20:29:06.358Z[Europe/London]","0.0","0.1"
+"Store CRUD test with step","update the store information","SUCCESS","2023-01-03T20:29:06.465Z[Europe/London]","0.0","0.18"
+"Store CRUD test with step","Delete the store and verify if the store is deleted!","SUCCESS","2023-01-03T20:29:06.647Z[Europe/London]","0.0","0.1"
